@@ -4,5 +4,6 @@ Version 1.0
 Features
 --------
 - User Authentication (Planned)
+  Status: Planned for a future release.
   Users will be able to securely sign in using a username and password.
   This feature will provide access control and help protect application resources.
