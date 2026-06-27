@@ -16,6 +16,10 @@ This repository demonstrates a simple collaborative development workflow using G
 ## Getting Started
 
 1. Clone the repository.
+
+   ```bash
+   git clone https://github.com/m7admehrnia/collaboration-demo.git
+
 2. Create a new branch for your changes.
 3. Commit your work.
 4. Push the branch to GitHub.
