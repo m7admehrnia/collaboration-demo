@@ -1,2 +1,2 @@
 Collaboration Demo Project
-Version 1.0 - Feature A + Feature B integrated
+Version 1.0 - CI test trigger
